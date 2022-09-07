@@ -1,0 +1,7 @@
+LIBRARY "RedisClientAddIn"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities
